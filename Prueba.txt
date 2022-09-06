@@ -5,3 +5,5 @@ Error
 
 Tengan un excelente dia
 se agrego una fecha
+
+Comenzando con Git
